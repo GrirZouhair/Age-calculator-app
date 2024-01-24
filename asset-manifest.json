@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Age-calculator-app/static/css/main.bf71af18.css",
+    "main.js": "/Age-calculator-app/static/js/main.2d5b2038.js",
+    "index.html": "/Age-calculator-app/index.html",
+    "static/media/icon-arrow.svg": "/Age-calculator-app/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.bf71af18.css.map": "/Age-calculator-app/static/css/main.bf71af18.css.map",
+    "main.2d5b2038.js.map": "/Age-calculator-app/static/js/main.2d5b2038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf71af18.css",
+    "static/js/main.2d5b2038.js"
+  ]
+}
